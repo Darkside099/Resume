@@ -1,41 +1,56 @@
+/* The code you provided is a CSS code block. It contains a set of CSS rules that define the styling
+for various elements in a web page. Each rule consists of a selector and a set of properties and
+values. */
+/* The code you provided is a CSS code block. It contains a set of CSS rules that define the styling
+for various elements in a web page. Each rule consists of a selector and a set of properties and
+values. */
 
-header{
+header {
     text-align: center;
 }
+
 hr {
-    border-color:darkgrey;
+    border-color: darkgrey;
 }
-li{
-    margin-top:2px;
-    margin-bottom:2px;
+
+li {
+    margin-top: 2px;
+    margin-bottom: 2px;
     padding: 5px;
 }
-section{
+
+section {
     padding: 20px;
     background-color: rgba(128, 128, 128, 0.101);
-    text-align:left;
+    text-align: left;
     font-family: 'Fuggles', cursive;
     border-radius: 10px;
     font-size: 18px;
     font-weight: bold;
     margin: 30px;
 }
+
 .language {
     font-family: 'Segoe UI';
     font-style: italic;
 }
-.underline_link{
+
+.underline_link {
     text-decoration: none;
 }
-.underline:hover{
-    text-decoration:underline ;
+
+.underline:hover {
+    text-decoration: underline;
 }
-.yellow{
-    color:rgb(247,181,41);
+
+.yellow {
+    color: rgb(247, 181, 41);
 }
-.green{
-    color: rgb(23,156,82);
+
+.green {
+    color: rgb(23, 156, 82);
 }
+
 .red {
     color: rgb(255, 62, 48);
 }
@@ -43,38 +58,46 @@ section{
 .blue {
     color: rgb(23, 107, 239);
 }
-.ico{
+
+.ico {
     width: 20px;
     height: 20px;
 }
-#linkdin_color{
-    color:rgb(12, 143, 195);
+
+#linkdin_color {
+    color: rgb(12, 143, 195);
 }
-#instagram_link{
-    color:rgb(211, 62, 208);
+
+#instagram_link {
+    color: rgb(211, 62, 208);
 }
-#github_link{
-    color:rgb(28, 27, 84);
+
+#github_link {
+    color: rgb(28, 27, 84);
 }
-#profile_name{
-    font-family:'Courier New';
-    font-size:50px;
-    margin-bottom:10px ;
-    margin-top :0px;
+
+#profile_name {
+    font-family: 'Courier New';
+    font-size: 50px;
+    margin-bottom: 10px;
+    margin-top: 0px;
 }
-#body_background{
-    background-color:whitesmoke;
+
+#body_background {
+    background-color: whitesmoke;
 }
-#job_roll{
+
+#job_roll {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
     margin-top: 0px;
 }
+
 #profile_photo {
     border-radius: 50%;
     height: 250px;
     width: 250px;
     margin-top: 50px;
-    margin-bottom:10px;
-    padding:5px;
+    margin-bottom: 10px;
+    padding: 5px;
     border: 2px grey hidden;
 }
