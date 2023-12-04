@@ -29,6 +29,10 @@ section {
     font-weight: bold;
     margin: 30px;
 }
+.logo{
+    height: 50px;
+    width: 100px;
+}
 
 .language {
     font-family: 'Segoe UI';
