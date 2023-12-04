@@ -18,6 +18,10 @@ li {
     margin-bottom: 2px;
     padding: 5px;
 }
+.certificate{
+    height: 300px;
+    width: 500px;
+}
 
 section {
     padding: 20px;
